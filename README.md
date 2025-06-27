@@ -52,7 +52,8 @@ From turning off lights with a whisper to tracking energy consumption, this proj
 
 ---
 
-##  Demo Preview 
+##  Preview 
+![Smart Home Demo](smarthome.jpg)
 
 
 ---
